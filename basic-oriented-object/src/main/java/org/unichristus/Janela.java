@@ -13,7 +13,7 @@ public class Janela {
     }
 
     public void showPerimetroJanela() {
-        System.out.println("Area da Perimetro: " + retangulo.calcularPerimetro());
+        System.out.println("Perimetro da Janela: " + retangulo.calcularPerimetro());
     }
 
     public static void main(String[] args) {
