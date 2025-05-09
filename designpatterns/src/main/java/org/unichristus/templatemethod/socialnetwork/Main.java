@@ -17,7 +17,7 @@ public class Main {
         System.out.print("Senha: ");
         String password = scan.next();
 
-        // enter with message
+        // enter with the message
         System.out.print("Coloque o seu Post: ");
         String message = reader.readLine();
         System.out.print("Escolha a Rede Social a ser postada: [facebook/x] ");
