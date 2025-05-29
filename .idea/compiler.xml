@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="basic-oriented-object" />
         <module name="designpatterns" />
+        <module name="jdbc-dao" />
       </profile>
     </annotationProcessing>
   </component>
